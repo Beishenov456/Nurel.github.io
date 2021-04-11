@@ -1,0 +1,152 @@
+*{
+margin: 0px;
+padding: 0px;
+
+
+}
+body{
+background-color: aqua;
+    
+}
+main{
+margin: auto;
+width: 75%;
+height: 100%;
+background-image: url(https://ulibky.ru/wp-content/uploads/2019/09/Kartinki_krutye_na_avu_3_14105213.jpg);
+
+
+display: flex;
+flex-wrap: wrap;
+}
+h1{
+ color: crimson;
+ margin: auto;
+}
+h2{
+    color: darkgray;
+    margin: auto;
+}
+
+
+
+
+
+
+
+.big{
+margin: 20px;
+background-color: rgb(110, 34, 34);
+
+width: 250px;
+height: 250px; 
+margin: 5px;
+border:8px solid salmon;
+border-radius: 100px solid rgb(253, 3, 212);
+}
+
+
+
+
+.car{
+    background-image: url("https://i.pinimg.com/originals/50/65/82/506582b2b57b526eb8a03462ac6cb289.jpg");
+    align-content: flex-end;
+
+}
+.car1{
+    background-image: url("https://www.meme-arsenal.com/memes/cd1a3af70cfdd9bb305cc7fa1d518dc4.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    align-content: flex-end;
+}
+.car2{
+    background-image: url("https://klike.net/uploads/posts/2019-03/1551596697_5.jpg");
+    width: 900px;
+    height: 50px;
+    border: 34px double yellow  ;
+    border-style: 34px double black;
+    border-right:35px  double pink;
+    border-radius: 10px 35px 10px 41px;
+    color: tomato;
+        
+    
+}
+.car3{
+    background-image: url("https://shutniki.club/wp-content/uploads/2019/12/fire_3_09055306-337x600.jpg") ;
+    align-content: flex-end;
+}
+.car4{
+      background-image: url("https://i.pinimg.com/originals/50/65/82/506582b2b57b526eb8a03462ac6cb289.jpg");
+      align-content: flex-end;
+
+}
+.car5{
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPCJ_boNn9wWVN5WJxGgdXJB1SFbcUyRxSgg&usqp=CAU);
+  align-content: flex-end;
+}
+.car6{
+    background-image: url("https://i.pinimg.com/originals/50/65/82/506582b2b57b526eb8a03462ac6cb289.jpg");
+    align-content: flex-end;
+
+}
+.car7{
+    background-image: url("https://i.pinimg.com/originals/50/65/82/506582b2b57b526eb8a03462ac6cb289.jpg");
+
+filter: blur(6px);
+align-content: flex-end;
+}
+.big:hover{
+transform: scale(1.1) rotate(360deg);
+opacity: 0.9;
+transition: 1s;
+filter: blur(5px);
+filter: drop-shadow(0 0 10px black);
+
+}
+.vvvv{
+display: flex;
+background-image: url(https://millionstatusov.ru/pic/statpic/all8/5e04c21a52a39.jpg);
+margin: 0px  156px;
+}
+
+
+
+.dhhhh{
+display: flex;
+flex-wrap: wrap;
+justify-content: flex-start;
+}
+.past{
+width: 100px;
+height: 100px;
+color: rgb(55, 20, 250);
+margin: 5px;
+
+
+
+
+
+   
+}
+.wwwww{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+} 
+.eer{
+    width: 100px;
+    height: 100px;
+    color: rgb(55, 20, 250);
+    margin: 5px;
+    
+    
+
+}
+
+
+
+.past:hover{
+    color: rgb(0, 245, 61);
+}
+.eer:hover{
+    color: indianred;
+}
